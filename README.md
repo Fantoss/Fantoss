@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python for analysis,**
 
-- 💬 Ask me about **Data Analytics, Data Visualization, Power BI**
+- 💬 Ask me about **Excel, Data Analytics, Data Visualization & Power BI**
 
 - 📫You can email on **tosyne8@yahoo.com**
 
