@@ -5,6 +5,9 @@
 - 💞️ I’m open to collaborate on data analysis project, freelancing and volunteer.
  
 Skills and Tools:
+- Excel  
+- Power BI 
+- Sql
 
 
 
